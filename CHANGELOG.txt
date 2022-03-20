@@ -1,0 +1,5 @@
+Change Log (dates in yyyymmdd format)
+================================
+0.1.0 20220110
+- First, Initial Release
+ This has been in existence for some months. Just only formalized now and about to go into a git repository and submitted to PyPi.
